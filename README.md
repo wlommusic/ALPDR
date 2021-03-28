@@ -9,8 +9,10 @@
   <li>numpy</li>
  </ul>
  ## guide for installing packages<br>
-```
-!pip install packagename
+```javascript
+import copyCodeBlock from '@pickra/copy-code-block';
+// OR
+const copyCodeBlock = require('@pickra/copy-code-block');
 ```
 <br>
 for example to install tensorflow type !pip install -u tensorflow
