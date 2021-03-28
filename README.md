@@ -8,11 +8,14 @@
   <li>sklearn</li>
   <li>numpy</li>
  </ul>
- ## guide for installing packages<br>
-```javascript
-import copyCodeBlock from '@pickra/copy-code-block';
-// OR
-const copyCodeBlock = require('@pickra/copy-code-block');
+ ## guide for installing packages:-
+ 
+```bash
+!pip install packagename
 ```
 <br>
-for example to install tensorflow type !pip install -u tensorflow
+## for example to install tensorflow:- 
+
+```bash
+!pip install -u tensorflow
+```
