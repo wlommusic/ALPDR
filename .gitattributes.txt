@@ -1,2 +1,0 @@
-# to change language of repo from ipynb to Python
-    *.ipynb linguist-language=Python
