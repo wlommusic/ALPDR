@@ -4,7 +4,7 @@
 
 ## Its recommended that you install all the packages directly from the requirments.txt file.
 Also its a good practice to make a new environment for this project
-firstly install <ins>[ananconda](https://www.anaconda.com/products/individual)</ins>That gets you the Conda package and environment manager, which just makes life more pleasant, in our experience, and allows us to do this:
+firstly install <ins>[Ananconda](https://www.anaconda.com/products/individual)</ins> That gets you the Conda package and environment manager, which just makes life more pleasant, in our experience, and allows us to do this:
 
 ```bash
 conda create -n shiny_new_env python=3.8
