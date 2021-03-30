@@ -1,0 +1,8 @@
+opencv-python==4.5.1.48
+matplotlib==3.3.4
+numpy==1.19.5
+tensorboard==2.4.1
+tensorflow==2.4.1
+sklearn==0.24.1
+Keras==2.4.3
+numpy==1.19.5
