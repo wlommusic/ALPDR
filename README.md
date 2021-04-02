@@ -7,12 +7,12 @@ Also its a good practice to make a new environment for this project
 firstly install <ins>[Ananconda](https://www.anaconda.com/products/individual)</ins> That gets you the Conda package and environment manager, which just makes life more pleasant, in our experience, and allows us to do this:
 
 ```bash
-conda create -n shiny_new_env python=3.8
+conda create -n new_env python=3.8
 ```
 then to activate it
 
 ```bash
- conda activate shiny_new_env
+ conda activate new_env
 ```
 lastly once inside your new environmrnt run the following line to get all the packages.
 
