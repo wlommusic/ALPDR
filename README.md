@@ -1,6 +1,7 @@
 # Automatic License Plate Detector and Character Recognizer
 ![alt text](https://cdn.pixabay.com/photo/2020/07/05/04/28/web-5371562_960_720.jpg)
 ## Abstract
+License plate recognition (LPR) is a fully automated image processing technology which uses image recognition technique to identify the characters on the number plate of a vehicle. The objective is to design an efficient automatic authorized vehicle identification system by scanning the image of the vehicle number plate. The system is mostly implemented in high security zones (like airports, courts, etc.), and recently is being planned to be implemented all over the country, for quick and easy identification of vehicles, in cases of theft control, security validation, etc.
 
 ## Its recommended that you install all the packages directly from the requirments.txt file.
 Also its a good practice to make a new environment for this project
